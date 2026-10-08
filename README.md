@@ -23,6 +23,15 @@ These are **fictional examples**, not customer records or evidence that a disput
 | Missing wages | [Sample letter](https://docbrain.online/samples/unpaid-wages-demand-letter.pdf) | [How to describe the pay gap](examples/unpaid-wages.md) |
 | Charges after cancellation | [Sample letter](https://docbrain.online/samples/charged-after-canceling-refund-letter.pdf) | [Start with a canceled subscription](https://docbrain.online/us/charged-after-cancelling) |
 
+## Practical guides
+
+Free reading from the DocBrain team, useful whether or not you order a letter:
+
+- [How to write a demand letter that gets a clear answer](https://shugar86.github.io/us-demand-letter-guide/) — the six parts every letter needs, deadlines you should not miss, and how to send it with proof.
+- [Security deposit not returned? State deadlines and how to ask in writing](https://telegra.ph/Security-deposit-not-returned-State-deadlines-and-how-to-ask-in-writing-10-08) — California, New York, Texas, Florida, Illinois and Ohio.
+- [Final paycheck missing? Deadlines in California, New York and Texas](https://telegra.ph/Final-paycheck-missing-Deadlines-in-California-New-York-and-Texas-10-08) — final-pay rules and what to include.
+- [From an everyday complaint to a ready-to-send letter](https://telegra.ph/DocBrain-from-an-everyday-complaint-to-a-ready-to-send-letter-10-08) — how a DocBrain order works, step by step.
+
 ## How an order works
 
 1. Choose your country and describe the problem in your own words.
